@@ -1,7 +1,7 @@
 HOW TO BEAT THE ROBOT
 =====================
 
-Knowing how the robot works help you come up with relations that confuse it.  
+Knowing how the robot works helps you beat it.  
 The robot decides whether or not to believe a relation using two methods:
 1. language 
 2. 2D configuration
