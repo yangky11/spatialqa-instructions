@@ -30,7 +30,7 @@ We illustate this with two bad examples:
 <img src="tire-to-the-left-of-monitor.png" width=400 height=400 />
 <img src="car-under-tree.png" width=400 height=400 />
 
-These two examples are easy for the robot to guess, because the 2D positions of these points tell us the relation *to the left of* and *under* are likely to be true.
+These two examples are easy for the robot to guess, because the 2D positions of these points tell us the relation *to the left of* and *under* are likely to be true.  
 However, you can also use this to your advantage, below is a good example: The robot won't believe the *candle to the right of man* given the 2D points, but it's actuall true.
 
 <img src="candle-to-the-right-of-man.png" width=400 height=400 />
