@@ -6,6 +6,7 @@ The robot decides whether or not to believe a relation using two methods:
 1. language 
 2. 2D configuration
 
+Each time the robot wins, it will tell you how the decision was made.
 
 ## Language
 
