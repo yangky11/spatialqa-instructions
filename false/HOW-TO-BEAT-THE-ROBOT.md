@@ -8,5 +8,6 @@ I suggest that you first pick any two objects in the image, then think about thi
 **Please notice that the relation you pick must be false in the image.**
 
 Here is a good example:
+*Helmet on man* sounds very plausible, but the helmet is actually not on that man in the image.
 
 <img src="helmet-on-man.png" width=400 height=400>
